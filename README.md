@@ -7,3 +7,6 @@ now change the local_path to your path where you save that file of poc.c & Makef
 
 then just run 
 
+chmod +x auto.sh
+
+./auto.sh
