@@ -11,5 +11,5 @@ chmod +x auto.sh
 
 ./auto.sh
 
+![Uploading Screenshot_18-11-2024_173130_app.hackthebox.com.jpeg…]()
 
-![Uploading image.png…]()
