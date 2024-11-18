@@ -10,3 +10,6 @@ then just run
 chmod +x auto.sh
 
 ./auto.sh
+
+
+![Uploading image.png…]()
